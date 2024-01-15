@@ -7,7 +7,7 @@ import threading
 
 print("\n\n")
 print("         +-------------------------------------+")
-print("         |         Author: cerberus            |")
+print("         |     Author: blackhat㉿cerberus      |")
 print("         |           Version: 0.1              |")
 print("         +-------------------------------------+ ")
 
